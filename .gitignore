@@ -1,0 +1,88 @@
+# ==============================
+# Unity Generated
+# ==============================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+/[Bb]ee/
+/Library/Bee/
+/Library/Il2cppBuildCache/
+/Library/PackageCache/*/Tests/
+
+# Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity Asset Store tools
+# /[Aa]ssets/AssetStoreTools*
+
+# Crashes
+sysinfo.txt
+
+# Build Output
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Android Gradle
+.gradle/
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+**/gradlew.bat
+**/gradlew
+/.gradle/
+/Library/Android/
+
+# iOS Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.pbxproj
+*.mode1v3
+*.mode2v3
+DerivedData/
+
+# IDE / OS / Tools
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.idea/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.obj
+*.pdb.meta
+*.mdb.meta
+*.tmproj
+*.tmp
+
+# Misc
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+*.bak
+*.orig
+*.old
+/[Rr]ecordings/
+
+/Packages/com.unity.timeline/Tests*/
+/Packages/com.unity.cinemachine/Tests*/
